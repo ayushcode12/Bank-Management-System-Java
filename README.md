@@ -70,13 +70,13 @@
     accountNumber,accountHolderName,hashedPin,balance
     12345678901,John Doe,e99a18c428cb38d5f260853678922e03,5000.0
 
-- accountNumber: Unique account ID (auto-generated)
+- **accountNumber**:&nbsp;&nbsp;Unique account ID (auto-generated)
 
-- accountHolderName: User's name
+- **accountHolderName**:&nbsp;&nbsp;User's name
 
-- hashedPin: 6-digit PIN hashed using SHA-256
+- **hashedPin**:&nbsp;&nbsp;6-digit PIN hashed using SHA-256
 
-- balance: Current balance
+- **balance**:&nbsp;&nbsp;Current balance
 
  🔐 Note: PINs are never stored in plaintext. They are hashed before saving.
 
@@ -94,6 +94,5 @@
 
 - **Name**: Ayush Jain  
 - **GitHub**: [@ayushcode12](https://github.com/ayushcode12)
-- **LinkedIn**: [www.linkedin.com/in/ayush-jain-043b90250](https://www.linkedin.com/in/your-profile)
 - **Email**: ayushjain8477@gmail.com
 
