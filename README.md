@@ -89,3 +89,11 @@
 - File handling (BufferedWriter, BufferedReader)
 
 - CSV format for data storage
+
+## 👨‍💻 Author
+
+- **Name**: Ayush Jain  
+- **GitHub**: [@ayushcode12](https://github.com/ayushcode12)
+- **LinkedIn**: [www.linkedin.com/in/ayush-jain-043b90250](https://www.linkedin.com/in/your-profile)
+- **Email**: ayushjain8477@gmail.com
+
